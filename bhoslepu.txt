@@ -1,4 +1,4 @@
-<span id="a">pbhosale@localhost</span>:<span id="b">~</span><span id="c">$</span> ssh cloudnode <!-- longlonglongcomment --><br> Welcome to cloudnode <br>
+<span id="a">anonymous@localhost</span>:<span id="b">~</span><span id="c">$</span> ssh cloudnode <!-- longlonglongcomment --><br> Welcome to cloudnode <br> 
 <span id="a">pbhosale@cloudnode</span>:<span id="b">~</span><span id="c">$</span> cd terminal-portfolio/
 <span id="a">pbhosale@cloudnode</span>:<span id="b">~</span><span id="c">$</span> cat prashantbhosale.txt<br/><br/>
 My favorite quote is "<span id="k">Speak less than you know; have more than you show. – William Shakespeare</span>". 
