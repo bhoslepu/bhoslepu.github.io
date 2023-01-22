@@ -7,7 +7,7 @@ My favorite quote is "<span id="k">Speak less than you know; have more than you 
 I am skilled Cloud DevOps engineer with 10+ years of experience in deploying products and systems. Experience in designing and architecture  Cloud environments (AWS/GCP/OCI) with security and automation at first place. As career grown in system administration possessing knowledge of critical troubleshooting, remediation of alerts/incidents, good collaboration skills with development team.
 
 Handling DevOps activities in a cross-functional agile team and collaborating closely with geographically distributed colleagues. Engaged in DevOps activities - continuous integration, continuous delivery/deployment, continuous testing, continuous monitoring and feedback for business critical infrastructure and services.</p>
-Feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:bhoslepu@gmail.com?cc=pbhosale@prashantbhosale.com">Email</a>
+Feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:bhoslepu@gmail.com?cc=me@prashantbhosale.in">Email</a>
 Please visit professional profiles on Internet, here: <br> <a href="https://www.linkedin.com/in/prashantubhosale/">LinkedIn</a> <br> <a href="https://github.com/bhoslepu">GitHub</a> <br> <a href="https://www.youracclaim.com/users/prashantubhosale/badges?id=prashantubhosale&page=1&sort=-state_updated_at">Acclaim Badges</a>
 
 <p>Enjoy Cloud from anywhere!</p>
