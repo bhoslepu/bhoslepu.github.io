@@ -2,43 +2,40 @@
 <span id="a">pbhosale@cloudnode</span>:<span id="b">~</span><span id="c">$</span> cd terminal-portfolio/
 <span id="a">pbhosale@cloudnode</span>:<span id="b">~</span><span id="c">$</span> cat prashantbhosale.txt<br/><br/>
 My favorite quote is "<span id="k">Speak less than you know; have more than you show. – William Shakespeare</span>". 
-<p>About Me
+<p>
+<span id="c">About Me</span>
 
 Hi, I’m Prashant Bhosale — a Lead Systems & Cloud DevOps Engineer with 15+ years of expertise in Cloud Architecture, DevOps, and Security, driving innovation, scalability, and operational excellence across diverse industries.
 
-I specialize in designing, architecting, and securing cloud environments (AWS, GCP, OCI) with automation-first strategies. My career spans from hands-on system administration to platform engineering, delivering resilient, secure, and cost-efficient solutions that enable faster releases and seamless scaling.
+I specialize in designing, architecting, and securing cloud environments with automation-first strategies. My career spans from hands-on system administration to DevOps and transitioning to platform engineering, delivering resilient, secure, and cost-efficient solutions that enable faster releases and seamless scaling.
 
 Recognized for problem-solving, analytical thinking, and a growth mindset, I thrive on complex challenges, never settling for “good enough.” My results speak for themselves—like improving team productivity by 20%, accelerating release cycles by 50%, and ensuring 99.9% uptime in high-stakes production environments.
 
-⸻
 
-What I Do Best
-	•	Cloud Architecture & Security – Designing and managing enterprise-grade solutions on AWS, GCP, and OCI with a focus on compliance (PCI, HIPAA, FedRAMP) and cost optimization.
-	•	DevOps Automation – Building scalable CI/CD pipelines (GitHub Actions, Jenkins), Infrastructure as Code (Terraform, Ansible), and containerization strategies (Docker, Kubernetes).
+<span id="c">What I Do Best</span>
+	•	Cloud Architecture & Security – Designing and managing enterprise-grade solutions on Public Cloud (AWS) with a focus on compliance (PCI, HIPAA, FedRAMP) and cost optimization.
+	•	DevOps Automation – Building scalable CI/CD pipelines (GitHub Actions, Jenkins), Infrastructure as Code (Terraform, Ansible, Packer), and containerization strategies (Docker, Kubernetes).
 	•	Site Reliability Engineering – Ensuring high availability, automated incident response, and operational efficiency for mission-critical platforms.
 	•	Team Leadership – Leading globally distributed teams, fostering a DevOps culture, and mentoring engineers to elevate performance and ownership.
 
-⸻
 
-Key Achievements
+<span id="c">Key Achievements</span>
 	•	50+ Production Deployments – Across multiple cloud providers with zero downtime.
-	•	Compliance Projects – Led 10+ PCI, HIPAA, and FedRAMP compliance initiatives.
+	•	Compliance Projects – Led 5+ PCI, HIPAA, and FedRAMP compliance initiatives.
 	•	Performance Gains – Improved team efficiency by 40% and reduced vulnerabilities by 30% through DevSecOps integration.
 	•	Cost Optimization – Achieved up to 80% infrastructure cost savings through virtualization and cloud strategies.
 	•	Migration Successes – Seamlessly moved 50+ CI/CD pipelines to GitHub Actions and Terraform Enterprise to Terraform Cloud without data loss.
 
-⸻
 
-Core Skills
-	•	Cloud – AWS (Certified Security Specialty, Solutions Architect – Professional), GCP (Professional Cloud Architect, Associate Cloud Engineer), OCI
+<span id="c">Core Skills</span>
+	•	Cloud – AWS (Certified Security Specialty, Solutions Architect – Professional), GCP (Professional Cloud Architect, Associate Cloud Engineer), Azure, OCI
 	•	DevOps & Automation – Terraform, Ansible, Jenkins, GitHub Actions, Packer
 	•	Containers & Virtualization – Kubernetes, Docker, VMware, Hyper-V, KVM
 	•	Monitoring & Security – Prometheus, Grafana, CloudWatch, CIS Benchmarks, Vulnerability Scanning (Trivy, Mend)
 	•	Programming/Scripting – Python, Shell, PowerShell
 
-⸻
 
-Work Philosophy
+<span id="c">Work Philosophy</span>
 
 I believe in building secure, scalable, and automated systems that enable teams to move fast without breaking things. For me, success is not just about delivering solutions—it’s about improving processes, empowering people, and driving measurable impact.</p>
 Feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:bhoslepu@gmail.com?cc=me@prashantbhosale.in">Email</a>
